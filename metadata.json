@@ -1,0 +1,8 @@
+{
+  "name": "Remix Harbor Homes - Laporan Biaya Unit Truk TBS",
+  "description": "Sistem Manajemen \u0026 Laporan Biaya Operasional Truk Pengangkut TBS (Tandan Buah Segar) Harbor Homes - Pemantauan Sparepart, Oli, Solar, Mekanik, dan Supir.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
